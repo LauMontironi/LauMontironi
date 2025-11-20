@@ -18,7 +18,7 @@ Let’s code something great!</p>
 # 💻 About Me :
 🔭 I’m currently working on my blog page : I'll tell you when it's ready
   
-🌱 I’m currently learning : Javascript 🧠👩‍💻
+🌱 I’m currently learning : Python 🧠👩‍💻
 
 👯 I’m looking for a new job oportunity
 
