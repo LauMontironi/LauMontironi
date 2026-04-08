@@ -63,7 +63,64 @@ Currently exploring Ruby and backend development.
 
 <br/>
 
+## 🚀 Featured Projects
 
+<table align="center">
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">📚 SaaS LMS</h3>
+      <p align="center">
+        Full-stack learning platform project focused on backend architecture and real-world application structure.
+      </p>
+      <p align="center">
+        <b>Tech:</b> Angular · FastAPI · SQL
+      </p>
+      <p align="center">
+        <a href="https://go.screenpal.com/watch/cOeoXPnZHfx" target="_blank">🎥 Watch Demo</a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🍽 UpgradeFood</h3>
+      <p align="center">
+        Web application focused on improving food choices and building practical frontend skills through a real project.
+      </p>
+      <p align="center">
+        <b>Tech:</b> Angular · Firebase · API
+      </p>
+      <p align="center">
+        <a href="https://www.loom.com/share/70aad1e030394b30809c497853a2c486" target="_blank">🎥 Watch Demo</a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">👨‍👩‍👧 Family Scheduler</h3>
+      <p align="center">
+        Full-stack project to manage family events, reminders and scheduling in a practical real-life context.
+      </p>
+      <p align="center">
+        <b>Tech:</b> Angular · FastAPI · SQL
+      </p>
+      <p align="center">
+        <a href="https://www.loom.com/share/db014396ffe54c97ba366d60aea4733b" target="_blank">🎥 Watch Demo</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- <p align="center">
+  🌐 <b>Portfolio:</b>
+  <a href="https://mi-portfolio-dev-laura-montironi.vercel.app/" target="_blank">
+    mi-portfolio-dev-laura-montironi.vercel.app
+  </a>
+</p>
+
+<p align="center">
+  ✍️ <b>Blog:</b>
+  <a href="https://mi-camino-dev-blog.vercel.app/" target="_blank">
+    mi-camino-dev-blog.vercel.app
+  </a>
+</p> -->
 
 <!-- Connect with me -->
 <div id="user-content-toc">
