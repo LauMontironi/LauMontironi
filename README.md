@@ -1,10 +1,23 @@
-<h1 align="center"><b>Hi , I'm Laura Montironi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
+<h1 align="center">
+  <b>Hi, I'm Laura Montironi</b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+
 <p align="center">
- I'm currently working as an accountant, but recently I discovered the exciting world of coding — and I fell in love with it. I'm still new to programming and currently studying, but I’ve found a real passion that   I want to fully dive into.</p>
- <br</br>
- <p align="center"> I'm here to learn, build, and grow one project at a time.
-Let’s code something great!</p>
+Developer with a background in accounting, currently focused on building real-world applications using Angular, FastAPI and SQL.
+</p>
+
+<br>
+
+<p align="center">
+I enjoy turning ideas into practical tools and learning by building projects that solve real problems.
+</p>
+
+<br>
+
+<p align="center">
+Currently exploring Ruby and backend development.
+</p>
 
 -----
 <br/>
@@ -15,14 +28,15 @@ Let’s code something great!</p>
 ---
 <div align="center">
   
-# 💻 About Me :
-🔭 I’m currently working on my blog page : I'll tell you when it's ready
-  
-🌱 I’m currently learning : Python 🧠👩‍💻
+## 💻 About Me
 
-👯 I’m looking for a new job oportunity
+🔭 Building practical applications and experimenting with backend systems.
 
-  
+🌱 Currently exploring Ruby and deepening my backend development skills.
+
+👩‍💻 Background in accounting transitioning into software development.
+
+🚀 Open to junior developer opportunities.
 
 
 
