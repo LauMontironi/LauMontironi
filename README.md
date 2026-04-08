@@ -42,6 +42,8 @@ Currently exploring Ruby and backend development.
 
   📫 How to reach me:  
   Mail me at "lau.montironi@gmail.com" 
+  
+  📫 Feel free to connect with me or explore my work below
 
 
 ### 👨‍💻 Languages and Tools
