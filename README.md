@@ -129,18 +129,58 @@ Currently exploring Ruby and backend development.
   </ul>
 </div>
 
-<p align="center">
+<!-- <p align="center">
 
 <a href="https://www.linkedin.com/in/laura-montironi" target="_blank">
-<img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+<img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
 </a>
-
+&nbsp;&nbsp;
 <a href="https://mi-camino-dev-blog.vercel.app/" target="_blank">
-<img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="blog" height="50" width="50" />
+<img src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="blog" height="50" width="50" />
 </a>
-
+&nbsp;&nbsp;
 <a href="https://mi-portfolio-dev-laura-montironi.vercel.app/" target="_blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" alt="portfolio" height="50" width="50" />
+<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" alt="portfolio" height="50" width="50" />
 </a>
 
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/laura-montironi" target="_blank">
+        <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://mi-camino-dev-blog.vercel.app/" target="_blank">
+        <img src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="blog" height="50" width="50" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://mi-portfolio-dev-laura-montironi.vercel.app/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" alt="portfolio" height="50" width="50" />
+      </a>
+    </td>
+  </tr>
+</table> -->
+
+<table align="center" border="0" cellspacing="0" cellpadding="10">
+  <tr>
+    <td align="center" border="0">
+      <a href="https://www.linkedin.com/in/laura-montironi" target="_blank">
+        <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+      </a>
+    </td>
+    <td align="center" border="0">
+      <a href="https://mi-camino-dev-blog.vercel.app/" target="_blank">
+        <img src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="blog" height="50" width="50" />
+      </a>
+    </td>
+    <td align="center" border="0">
+      <a href="https://mi-portfolio-dev-laura-montironi.vercel.app/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" alt="portfolio" height="50" width="50" />
+      </a>
+    </td>
+  </tr>
+</table>
